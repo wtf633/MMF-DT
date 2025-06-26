@@ -42,7 +42,7 @@ python RandomSurvivalForest.py
 ```
 
 ## 5. Digital Twin System
-The MMF-DT system has been integrated into an interactive online application, freely accessible at https://zlzhang1124.shinyapps.io/InteractiveMedicalPredictionAPP/.
+The MMF-DT system has been integrated into an interactive online application, freely accessible at [https://zlzhang1124.shinyapps.io/InteractiveMedicalPredictionAPP/](https://tfwang.shinyapps.io/InteractiveMedicalPredictionAPP/).
 
 ```
 app_digital_twins.R
